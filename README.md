@@ -1,11 +1,11 @@
 # Tech Stack
 
 # Shell script
-# direnv
+- direnv
 
 
 # Javascript
-# dotenv
+- dotenv
 
 
 
