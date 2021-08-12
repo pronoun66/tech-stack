@@ -47,6 +47,8 @@
 - bartender
 - AppCleaner
 - The unarchiver
+- MenuMeter
+- Franz
 
 # Other
 - iTerm with zsh and tmux
