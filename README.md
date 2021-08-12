@@ -35,7 +35,18 @@
 # Tools
 - 1Password (password management)
 - Keybase (local config files)
+- Proxyman (local proxy)
+
+
+# Misc
+- Snap
+- Krisp
+- f.lux
+- Spectacle
+- recordit
+- bartender
 
 # Other
 - iTerm with zsh and tmux
 - sceptre, wsl, TablePlus, Paw, Fork, Postico
+
