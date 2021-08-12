@@ -38,13 +38,15 @@
 - Proxyman (local proxy)
 
 
-# Misc
+# Mac
 - Snap
 - Krisp
 - f.lux
 - Spectacle
 - recordit
 - bartender
+- AppCleaner
+- The unarchiver
 
 # Other
 - iTerm with zsh and tmux
