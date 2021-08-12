@@ -31,3 +31,11 @@
 
 # Reference
 - [free-for.dev](https://https://free-for.dev/#/)
+
+# Tools
+- 1Password (password management)
+- Keybase (local config files)
+
+# Other
+- iTerm with zsh and tmux
+- sceptre, wsl, TablePlus, Paw, Fork, Postico
