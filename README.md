@@ -36,7 +36,7 @@
 
 
 # Reference
-- [free-for.dev](https://https://free-for.dev/#/)
+- [free-for.dev](https://free-for.dev/#/)
 
 # Tools
 - 1Password (password management)
